@@ -26,8 +26,8 @@ This project is a **smart wearable device** designed for women's safety using th
 ## 📑 Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/amansh-tty/smart-wearable-safety.git
-   cd smart-wearable-safety
+   git clone https://github.com/amansh-tty/Stree-Raksha-Women-s-Safety-IOT-Device-.git
+   cd Stree-Raksha-Women-s-Safety-IOT-Device-
    ```
 2. **Install Required Libraries in Arduino IDE:**
    - `Wire.h` (for I2C communication with MPU6050)
